@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **malrangjeongha/malrangjeongha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=8a9892&height=150&section=header&text=Hello%20World%20!&animation=fadeIn&fontSize=80&fontColor=FFFFFF)
+
+<p align="center"><img src="https://user-images.githubusercontent.com/89580570/227841910-221bc456-32b4-43f9-b05a-743db7e38b7e.gif" height="500px" width="500px"></p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malrangjeongha&title_color=8a9892)](https://github.com/malrangjeongha/github-readme-stats)
