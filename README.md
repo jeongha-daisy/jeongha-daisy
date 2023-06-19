@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://user-images.githubusercontent.com/89580570/227841910-221bc456-32b4-43f9-b05a-743db7e38b7e.gif" height="500px" width="500px"></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=malrangjeongha&title_color=8a9892)](https://github.com/malrangjeongha/github-readme-stats)
